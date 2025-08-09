@@ -1,11 +1,13 @@
-# Add two numbers in Python
+# Program to add two numbers entered by the user
 
-# Input: two numbers from the user
+# Prompt the user to enter the first number and convert the input to float
 num1 = float(input("Enter first number: "))
+
+# Prompt the user to enter the second number and convert the input to float
 num2 = float(input("Enter second number: "))
 
-# Calculate the sum
+# Add the two numbers and store the result in the variable 'sum'
 sum = num1 + num2
 
-# Output the result
+# Display the result to the user
 print("The sum is:", sum)
