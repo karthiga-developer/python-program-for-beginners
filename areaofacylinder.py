@@ -25,4 +25,4 @@ def curved_surface_area_cylinder(radius, height):
 r = float(input("Enter the radius of the cylinder: "))
 h = float(input("Enter the height of the cylinder: "))
 csa = curved_surface_area_cylinder(r, h)
-print(f"Curved Surface Area of the cylinder: {csa:.3f}")
+print(f"Curved Surface Area of the cylinder: {csa:.2f} square units")
