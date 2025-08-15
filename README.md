@@ -1,6 +1,6 @@
 ﻿# python-program-for-beginners
 
-This repository contains simple Python programs for beginners. Each script demonstrates basic programming concepts such as user input, arithmetic operations, and control flow. OK
+This repository contains simple Python programs for beginners. Each script demonstrates basic programming concepts such as user input, arithmetic operations, and control flow. 
 
 ## Programs
 
