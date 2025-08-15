@@ -1,4 +1,4 @@
-﻿# python-program-for-beginners - For now
+﻿# python-program-for-beginners - For now - as on today
 
 This repository contains simple Python programs for beginners. Each script demonstrates basic programming concepts such as user input, arithmetic operations, and control flow.
 
@@ -21,4 +21,5 @@ This repository contains simple Python programs for beginners. Each script demon
 1. Make sure you have Python installed.
 2. Open a terminal in this folder.
 3. Run any script using:
+
 
