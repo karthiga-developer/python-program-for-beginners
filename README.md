@@ -19,11 +19,26 @@ This repository contains simple Python programs for beginners. Each script demon
 - **averagenumbers.py**  
   Asks the user how many numbers they want to average, takes those numbers as input, and prints the average.
 
+- **calculate_electric_bill.py**  
+  Calculates the total electric bill based on units consumed and rate per unit.
+
 - **calculatenetsalary.py**  
   Calculates the net salary after deductions based on user input.
 
+- **celsius_to_fahrenheit.py**  
+  Converts Celsius temperature to Fahrenheit.
+
+- **count_letters_in_name.py**  
+  Counts the number of letters in a user's name.
+
+- **count_suppliers.py**  
+  Counts the number of book suppliers entered by the user.
+
 - **countnumberofevenandodd.py**  
   Counts the number of even and odd numbers in a given range or list.
+
+- **days_between.py**  
+  Calculates the number of days between two dates.
 
 - **eligibletovote.py**  
   Checks if the user is eligible to vote based on age.
@@ -51,6 +66,12 @@ This repository contains simple Python programs for beginners. Each script demon
 
 - **schoolgrade.py**  
   Assigns a grade based on the marks entered by the user.
+
+- **shop_total.py**  
+  Calculates the total amount for items purchased in a shop.
+
+- **staff_present.py**  
+  Counts the number of staff present based on user input.
 
 - **sumandaverageof5numbers.py**  
   Calculates the sum and average of five numbers entered by the user.
