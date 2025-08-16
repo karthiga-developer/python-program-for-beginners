@@ -1,3 +1,10 @@
+"""
+Program Name : countnumberofevenandodd.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Counts the number of even and odd numbers in a given range or list.
+"""
+
 even_count = 0
 odd_count = 0
 

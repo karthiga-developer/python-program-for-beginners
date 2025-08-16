@@ -1,15 +1,8 @@
 """
-areaofacylinder.py
-
-This script calculates the curved surface area (CSA) of a cylinder using user-provided radius and height.
-Formula used:
-    CSA = 2 * π * r * h
-Where:
-    r = radius of the cylinder
-    h = height of the cylinder
-
-Author: Karthiga
-Date: August 15, 2025
+Program Name : areaofacyalinder.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Calculates the curved surface area of a cylinder using user-provided radius and height.
 """
 
 import math

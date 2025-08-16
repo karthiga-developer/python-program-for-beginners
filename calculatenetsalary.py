@@ -1,3 +1,10 @@
+"""
+Program Name : calculatenetsalary.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Calculates the net salary after deductions based on user input.
+"""
+
 # Program to calculate net salary
 
 def calculate_net_salary(gross_salary, tax_rate, deductions):

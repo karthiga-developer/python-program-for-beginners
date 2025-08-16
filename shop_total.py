@@ -1,4 +1,9 @@
-# shop_total.py
+"""
+Program Name : shop_total.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Calculates the total amount for items purchased in a shop.
+"""
 
 def calculate_total():
     total = 0

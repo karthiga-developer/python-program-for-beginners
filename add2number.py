@@ -1,4 +1,9 @@
-# Program to add two numbers entered by the user
+"""
+Program Name : add2number.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Prompts the user to enter two numbers and prints their sum.
+"""
 
 # Prompt the user to enter the first number and convert the input to float
 num1 = float(input("Enter first number: "))

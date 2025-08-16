@@ -1,3 +1,10 @@
+"""
+Program Name : matrixmultiplicationtable.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Displays the multiplication table for a matrix or a given number.
+"""
+
 rows = 10
 cols = 10
 

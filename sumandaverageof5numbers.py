@@ -1,3 +1,10 @@
+"""
+Program Name : sumandaverageof5numbers.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Calculates the sum and average of five numbers entered by the user.
+"""
+
 count = 0
 total = 0
 

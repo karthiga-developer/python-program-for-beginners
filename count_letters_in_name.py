@@ -1,11 +1,8 @@
 """
-count_letters_in_name.py
-
-This script counts the number of letters in a user's name.
-Spaces and non-letter characters are ignored.
-
-Author: karthiga
-Date: August 15, 2025
+Program Name : count_letters_in_name.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Counts the number of letters in a user's name.
 """
 
 def count_letters(name):

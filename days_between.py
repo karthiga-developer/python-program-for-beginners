@@ -1,3 +1,10 @@
+"""
+Program Name : days_between.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Calculates the number of days between two dates.
+"""
+
 from datetime import datetime
 
 # Input format: YYYY-MM-DD

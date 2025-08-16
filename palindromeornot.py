@@ -1,3 +1,10 @@
+"""
+Program Name : palindromeornot.py
+Author       : Karthiga
+Date         : 2025-08-16
+Purpose      : Checks if a given string or number is a palindrome.
+"""
+
 def is_palindrome(s):
     s = s.lower().replace(" ", "")  # Ignore case and spaces
     return s == s[::-1]
